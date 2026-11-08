@@ -1,0 +1,493 @@
+{
+  "overall": {
+    "expose_users": 22572,
+    "expose_rows": 112338,
+    "click_users": 1907,
+    "click_rows": 2282,
+    "join_users": 489,
+    "reach_users": 396,
+    "reach_rows": 413
+  },
+  "nested": {
+    "lv1": 22572,
+    "lv2": 1504,
+    "lv3": 302,
+    "lv4": 255
+  },
+  "daily": [
+    {
+      "day": "2080-09-28",
+      "expose_users": 424,
+      "click_users": 14,
+      "join_users": 6,
+      "reach_users": 4
+    },
+    {
+      "day": "2080-09-29",
+      "expose_users": 585,
+      "click_users": 19,
+      "join_users": 9,
+      "reach_users": 7
+    },
+    {
+      "day": "2080-09-30",
+      "expose_users": 768,
+      "click_users": 22,
+      "join_users": 15,
+      "reach_users": 11
+    },
+    {
+      "day": "2080-10-01",
+      "expose_users": 1351,
+      "click_users": 672,
+      "join_users": 232,
+      "reach_users": 188
+    },
+    {
+      "day": "2080-10-02",
+      "expose_users": 681,
+      "click_users": 25,
+      "join_users": 7,
+      "reach_users": 11
+    },
+    {
+      "day": "2080-10-03",
+      "expose_users": 6614,
+      "click_users": 170,
+      "join_users": 22,
+      "reach_users": 20
+    },
+    {
+      "day": "2080-10-04",
+      "expose_users": 2684,
+      "click_users": 27,
+      "join_users": 7,
+      "reach_users": 8
+    },
+    {
+      "day": "2080-10-05",
+      "expose_users": 6642,
+      "click_users": 197,
+      "join_users": 17,
+      "reach_users": 15
+    },
+    {
+      "day": "2080-10-06",
+      "expose_users": 2729,
+      "click_users": 31,
+      "join_users": 13,
+      "reach_users": 9
+    },
+    {
+      "day": "2080-10-07",
+      "expose_users": 6510,
+      "click_users": 175,
+      "join_users": 10,
+      "reach_users": 8
+    },
+    {
+      "day": "2080-10-08",
+      "expose_users": 3374,
+      "click_users": 552,
+      "join_users": 122,
+      "reach_users": 110
+    },
+    {
+      "day": "2080-10-09",
+      "expose_users": 633,
+      "click_users": 23,
+      "join_users": 4,
+      "reach_users": 3
+    },
+    {
+      "day": "2080-10-10",
+      "expose_users": 6815,
+      "click_users": 179,
+      "join_users": 14,
+      "reach_users": 13
+    },
+    {
+      "day": "2080-10-11",
+      "expose_users": 2806,
+      "click_users": 21,
+      "join_users": 11,
+      "reach_users": 6
+    }
+  ],
+  "resource": [
+    {
+      "res_location": "首页-通栏单帧推广位/首页—首页图文",
+      "expose_users": 18348,
+      "click_users": 676,
+      "ctr": 0.0368
+    },
+    {
+      "res_location": "发现-热门活动",
+      "expose_users": 5273,
+      "click_users": 96,
+      "ctr": 0.0182
+    },
+    {
+      "res_location": "首页-首页广告弹窗/首页—首页弹窗",
+      "expose_users": 1260,
+      "click_users": 1151,
+      "ctr": 0.9135
+    },
+    {
+      "res_location": "首页-开机大屏",
+      "expose_users": 961,
+      "click_users": 64,
+      "ctr": 0.0666
+    }
+  ],
+  "hourly": [
+    {
+      "hour_of_day": 0,
+      "expose_users": 1555,
+      "click_users": 87,
+      "join_users": 25
+    },
+    {
+      "hour_of_day": 1,
+      "expose_users": 975,
+      "click_users": 27,
+      "join_users": 9
+    },
+    {
+      "hour_of_day": 2,
+      "expose_users": 738,
+      "click_users": 18,
+      "join_users": 4
+    },
+    {
+      "hour_of_day": 3,
+      "expose_users": 681,
+      "click_users": 6,
+      "join_users": 1
+    },
+    {
+      "hour_of_day": 4,
+      "expose_users": 811,
+      "click_users": 28,
+      "join_users": 2
+    },
+    {
+      "hour_of_day": 5,
+      "expose_users": 1425,
+      "click_users": 76,
+      "join_users": 15
+    },
+    {
+      "hour_of_day": 6,
+      "expose_users": 2857,
+      "click_users": 140,
+      "join_users": 26
+    },
+    {
+      "hour_of_day": 7,
+      "expose_users": 3824,
+      "click_users": 193,
+      "join_users": 49
+    },
+    {
+      "hour_of_day": 8,
+      "expose_users": 3491,
+      "click_users": 161,
+      "join_users": 34
+    },
+    {
+      "hour_of_day": 9,
+      "expose_users": 2973,
+      "click_users": 103,
+      "join_users": 27
+    },
+    {
+      "hour_of_day": 10,
+      "expose_users": 2721,
+      "click_users": 119,
+      "join_users": 23
+    },
+    {
+      "hour_of_day": 11,
+      "expose_users": 2455,
+      "click_users": 99,
+      "join_users": 27
+    },
+    {
+      "hour_of_day": 12,
+      "expose_users": 2426,
+      "click_users": 74,
+      "join_users": 15
+    },
+    {
+      "hour_of_day": 13,
+      "expose_users": 2376,
+      "click_users": 89,
+      "join_users": 20
+    },
+    {
+      "hour_of_day": 14,
+      "expose_users": 2294,
+      "click_users": 85,
+      "join_users": 21
+    },
+    {
+      "hour_of_day": 15,
+      "expose_users": 2175,
+      "click_users": 72,
+      "join_users": 14
+    },
+    {
+      "hour_of_day": 16,
+      "expose_users": 2282,
+      "click_users": 58,
+      "join_users": 19
+    },
+    {
+      "hour_of_day": 17,
+      "expose_users": 2614,
+      "click_users": 68,
+      "join_users": 8
+    },
+    {
+      "hour_of_day": 18,
+      "expose_users": 2767,
+      "click_users": 94,
+      "join_users": 12
+    },
+    {
+      "hour_of_day": 19,
+      "expose_users": 2932,
+      "click_users": 97,
+      "join_users": 23
+    },
+    {
+      "hour_of_day": 20,
+      "expose_users": 3262,
+      "click_users": 106,
+      "join_users": 27
+    },
+    {
+      "hour_of_day": 21,
+      "expose_users": 3509,
+      "click_users": 137,
+      "join_users": 35
+    },
+    {
+      "hour_of_day": 22,
+      "expose_users": 3490,
+      "click_users": 106,
+      "join_users": 25
+    },
+    {
+      "hour_of_day": 23,
+      "expose_users": 2821,
+      "click_users": 94,
+      "join_users": 28
+    }
+  ],
+  "profiles": {
+    "gender": [
+      {
+        "gender": "女",
+        "total": 320,
+        "join": 139,
+        "reach": 107,
+        "join_rate": 0.434375,
+        "reach_rate": 0.334375
+      },
+      {
+        "gender": "男",
+        "total": 721,
+        "join": 350,
+        "reach": 289,
+        "join_rate": 0.4854368932038835,
+        "reach_rate": 0.40083217753120665
+      }
+    ],
+    "age_new": [
+      {
+        "age_new": ">70",
+        "total": 19,
+        "join": 6,
+        "reach": 3,
+        "join_rate": 0.3157894736842105,
+        "reach_rate": 0.15789473684210525
+      },
+      {
+        "age_new": "[0,14]",
+        "total": 33,
+        "join": 12,
+        "reach": 11,
+        "join_rate": 0.36363636363636365,
+        "reach_rate": 0.3333333333333333
+      },
+      {
+        "age_new": "[15,25]",
+        "total": 340,
+        "join": 171,
+        "reach": 145,
+        "join_rate": 0.5029411764705882,
+        "reach_rate": 0.4264705882352941
+      },
+      {
+        "age_new": "[26,35]",
+        "total": 284,
+        "join": 130,
+        "reach": 104,
+        "join_rate": 0.45774647887323944,
+        "reach_rate": 0.36619718309859156
+      },
+      {
+        "age_new": "[36,50]",
+        "total": 247,
+        "join": 114,
+        "reach": 90,
+        "join_rate": 0.46153846153846156,
+        "reach_rate": 0.3643724696356275
+      },
+      {
+        "age_new": "[51,70]",
+        "total": 118,
+        "join": 56,
+        "reach": 43,
+        "join_rate": 0.4745762711864407,
+        "reach_rate": 0.3644067796610169
+      }
+    ],
+    "city_line": [
+      {
+        "city_line": "一线城市",
+        "total": 303,
+        "join": 132,
+        "reach": 107,
+        "join_rate": 0.43564356435643564,
+        "reach_rate": 0.35313531353135313
+      },
+      {
+        "city_line": "三线城市",
+        "total": 189,
+        "join": 90,
+        "reach": 74,
+        "join_rate": 0.47619047619047616,
+        "reach_rate": 0.3915343915343915
+      },
+      {
+        "city_line": "二线城市",
+        "total": 211,
+        "join": 109,
+        "reach": 83,
+        "join_rate": 0.5165876777251185,
+        "reach_rate": 0.3933649289099526
+      },
+      {
+        "city_line": "五线城市",
+        "total": 52,
+        "join": 26,
+        "reach": 21,
+        "join_rate": 0.5,
+        "reach_rate": 0.40384615384615385
+      },
+      {
+        "city_line": "其他",
+        "total": 27,
+        "join": 10,
+        "reach": 7,
+        "join_rate": 0.37037037037037035,
+        "reach_rate": 0.25925925925925924
+      },
+      {
+        "city_line": "四线城市",
+        "total": 90,
+        "join": 40,
+        "reach": 34,
+        "join_rate": 0.4444444444444444,
+        "reach_rate": 0.37777777777777777
+      },
+      {
+        "city_line": "超一线城市",
+        "total": 169,
+        "join": 82,
+        "reach": 70,
+        "join_rate": 0.48520710059171596,
+        "reach_rate": 0.41420118343195267
+      }
+    ],
+    "platform": [
+      {
+        "platform": "android",
+        "total": 796,
+        "join": 457,
+        "reach": 371,
+        "join_rate": 0.5741206030150754,
+        "reach_rate": 0.46608040201005024
+      },
+      {
+        "platform": "ios",
+        "total": 245,
+        "join": 32,
+        "reach": 25,
+        "join_rate": 0.1306122448979592,
+        "reach_rate": 0.10204081632653061
+      }
+    ],
+    "create_period": [
+      {
+        "create_period": "2074",
+        "total": 25,
+        "join": 15,
+        "reach": 14,
+        "join_rate": 0.6,
+        "reach_rate": 0.56
+      },
+      {
+        "create_period": "2075",
+        "total": 59,
+        "join": 33,
+        "reach": 28,
+        "join_rate": 0.559322033898305,
+        "reach_rate": 0.4745762711864407
+      },
+      {
+        "create_period": "2076",
+        "total": 64,
+        "join": 36,
+        "reach": 25,
+        "join_rate": 0.5625,
+        "reach_rate": 0.390625
+      },
+      {
+        "create_period": "2077",
+        "total": 106,
+        "join": 61,
+        "reach": 47,
+        "join_rate": 0.5754716981132075,
+        "reach_rate": 0.44339622641509435
+      },
+      {
+        "create_period": "2078",
+        "total": 117,
+        "join": 59,
+        "reach": 52,
+        "join_rate": 0.5042735042735043,
+        "reach_rate": 0.4444444444444444
+      },
+      {
+        "create_period": "2079",
+        "total": 181,
+        "join": 81,
+        "reach": 65,
+        "join_rate": 0.44751381215469616,
+        "reach_rate": 0.35911602209944754
+      },
+      {
+        "create_period": "2080",
+        "total": 488,
+        "join": 203,
+        "reach": 164,
+        "join_rate": 0.41598360655737704,
+        "reach_rate": 0.3360655737704918
+      }
+    ]
+  }
+}
